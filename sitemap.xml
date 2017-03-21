@@ -3,15 +3,15 @@
 
   
   <url>
-    <loc>http://example.org/#intro</loc>
+    <loc>/becca-and-chris.github.io/#intro</loc>
   </url>
   
   <url>
-    <loc>http://example.org/#about</loc>
+    <loc>/becca-and-chris.github.io/#about</loc>
   </url>
   
   <url>
-    <loc>http://example.org/#</loc>
+    <loc>/becca-and-chris.github.io/#</loc>
     <priority>0</priority>
   </url>
   
