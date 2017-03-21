@@ -3,15 +3,32 @@
 
   
   <url>
-    <loc>/becca-and-chris.github.io/#intro</loc>
-  </url>
-  
-  <url>
     <loc>/becca-and-chris.github.io/#about</loc>
   </url>
   
   <url>
+    <loc>/becca-and-chris.github.io/#registry</loc>
+    <lastmod>2017-03-21T02:57:02-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/becca-and-chris.github.io/#directions</loc>
+    <lastmod>2017-03-21T02:56:21-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/becca-and-chris.github.io/#lodging</loc>
+    <lastmod>2017-03-21T02:55:17-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/becca-and-chris.github.io/#rsvp</loc>
+    <lastmod>2017-03-21T02:15:33-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/becca-and-chris.github.io/#</loc>
+    <lastmod>2017-03-21T02:57:02-05:00</lastmod>
     <priority>0</priority>
   </url>
   
