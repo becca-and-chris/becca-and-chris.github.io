@@ -2,19 +2,19 @@ body {
   background: #ffffff;}
   
 body, input, select, textarea {
-  color: #000000;
+  color: #00006e;
 }
   
 body, input, select, textarea {
-  color: #000000;
+  color: #00006e;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  color: #000000;
+  color: #00006e;
 }
 
 strong, b {
-  color: #000000;
+  color: #00006e;
 }
 
 
@@ -42,10 +42,10 @@ h2 {
   -webkit-transition: -webkit-transform 0.325s ease-in-out, -webkit-filter 0.325s ease-in-out, opacity 0.325s ease-in-out;
   -ms-transition: -ms-transform 0.325s ease-in-out, -ms-filter 0.325s ease-in-out, opacity 0.325s ease-in-out;
   transition: transform 0.325s ease-in-out, filter 0.325s ease-in-out, opacity 0.325s ease-in-out;
-  background-image: -moz-radial-gradient(rgba(0, 0, 0, 0.25) 25%, transparent 55%);
-  background-image: -webkit-radial-gradient(rgba(0, 0, 0, 0.25) 25%, transparent 55%);
-  background-image: -ms-radial-gradient(rgba(0, 0, 0, 0.25) 25%, transparent 55%);
-  background-image: radial-gradient(rgba(0, 0, 0, 0.25) 25%, transparent 55%);
+  background-image: -moz-radial-gradient(rgba(255, 255, 255, 1.0) 0%, transparent 0%);
+  background-image: -webkit-radial-gradient(rgba(255, 255, 255, 1.0) 0%, transparent 0%);
+  background-image: -ms-radial-gradient(rgba(255, 255, 255, 1.0) 0%, transparent 0%);
+  background-image: radial-gradient(rgba(255, 255, 255, 1.0) 0%, transparent 0%);
   max-width: 100%;
   text-align: center; }
   #header > * {
@@ -63,7 +63,7 @@ h2 {
       left: calc(50% - 1px);
       width: 1px;
       height: calc(3.5rem + 1px);
-      background: #000000; }
+      background: #00006e; }
   #header > :first-child {
     margin-top: 0; }
     #header > :first-child:before {
@@ -72,13 +72,13 @@ h2 {
     width: 5.5rem;
     height: 5.5rem;
     line-height: 5.5rem;
-    border: solid 1px #000000;
+    border: solid 1px #00006e;
     border-radius: 100%; }
     #header .logo .icon:before {
       font-size: 2rem; }
   #header .content {
     border-style: solid;
-    border-color: #000000;
+    border-color: #00006e;
     border-top-width: 1px;
     border-bottom-width: 1px;
     max-width: 100%; }
@@ -109,11 +109,11 @@ h2 {
     margin-bottom: 0;
     list-style: none;
     padding-left: 0;
-    border: solid 1px #000000;
+    border: solid 1px #00006e;
     border-radius: 4px; }
     #header nav ul li {
       padding-left: 0;
-      border-left: solid 1px #000000; }
+      border-left: solid 1px #00006e; }
       #header nav ul li:first-child {
         border-left: 0; }
       #header nav ul li a {
@@ -196,7 +196,7 @@ h2 {
         max-width: 100%; }
         #header nav ul li {
           border-left: 0;
-          border-top: solid 1px #ffffff; }
+          border-top: solid 1px #00006e; }
           #header nav ul li:first-child {
             border-top: 0; }
           #header nav ul li a {
