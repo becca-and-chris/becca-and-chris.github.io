@@ -7,6 +7,7 @@ body, input, select, textarea {
   
 body, input, select, textarea {
   color: #00006e;
+  font-family: adobe-garamond-pro, serif;
 }
 
 h1, h2, h3, h4, h5, h6 {
