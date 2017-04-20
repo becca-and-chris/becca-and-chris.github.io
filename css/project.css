@@ -22,7 +22,7 @@ strong, b {
 } 
 
 #bg:before {
-	background-image: #ffffff
+	background-image: #ffffff;
 }
 
 body.is-loading #bg:before {
