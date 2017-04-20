@@ -18,11 +18,11 @@ strong, b {
 }
 
 #main article {
-	background-color: rgba(255,255,255, 1.0);
+	background-color: rgba(220,220,220, 0.7);
 } 
 
 #bg:before {
-	background-image: linear-gradient(to top, rgba(255, 255, 255, 1.0), rgba(255, 255, 255, 1.0)), url("/images/overlay.png");
+	background-image: #ffffff
 }
 
 body.is-loading #bg:before {
