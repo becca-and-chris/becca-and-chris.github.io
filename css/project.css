@@ -13,9 +13,27 @@ h1, h2, h3, h4, h5, h6 {
   color: #000000;
 }
 
+strong, b {
+  color: #000000;
+}
+
 #main article {
 	background-color: rgba(255,255,255, 1.0);
 } 
 
+#bg:before {
+	background-image: linear-gradient(to top, rgba(255, 255, 255, 1.0), rgba(255, 255, 255, 1.0)), url("/images/overlay.png");
+}
 
+body.is-loading #bg:before {
+	background-color: #ffffff; }
+	
+h1 {
+	letter-spacing: 0.2rem; }
 
+h2 {
+	letter-spacing: 0.2rem; }
+	
+select option {
+  background: #ffffff;
+  color: #000000; }
